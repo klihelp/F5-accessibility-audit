@@ -139,7 +139,7 @@ optimal brevity, redundancy, or readibility—nor does it yet adheres to the typ
   or nav (research on my part)
 
 ## Toggler Bars
-- Must have `aria-checked` and `aria-checked` if we allow non form element to have
+- Must have `aria-checked` if we allow non form element to have
   similar functionality.
 
 - `aria-pressed`
